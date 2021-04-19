@@ -160,3 +160,8 @@ That is all :)
 ![Intel UHD 630 Benchmark Test Heaven](https://raw.githubusercontent.com/yilmazca/intel-i9-10900K-Asus-prime-Z490A-hackintosh/master/Docs/ss5.png)
 ![SanDisk Extreme Pro 1TB M.2 NVMe 3D SSD Disk Speed Test result](https://raw.githubusercontent.com/yilmazca/intel-i9-10900K-Asus-prime-Z490A-hackintosh/master/Docs/ss6.png)
 
+
+Edits:-
+
+Please check this Github repo
+https://github.com/xfm99/Hackintosh-i5-10600k-Asus-Prime-Z490A
